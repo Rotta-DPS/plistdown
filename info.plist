@@ -9,7 +9,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>http://192.168.0.123/Data/IOS/Update/fishing.ipa</string>
+          <string>https://raw.githubusercontent.com/Rotta-DPS/plistdown/master/fishing.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
@@ -21,7 +21,7 @@
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>濞ｈ鲸鎹ｆ稉鈧挧閿嬪礋妤?/string>
+        <string>�һ����</string>
 </dict>
     </dict>
   </array>
